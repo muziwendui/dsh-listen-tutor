@@ -5,9 +5,9 @@
 > 一个 DeepSeek Harness（DSH）插件。跑在 macOS + Safari 上。
 
 <p align="center">
-  <img src="docs/page-124-angiotensin.jpg" alt="一页真实的讲义：血管紧张素 II 的功能" width="780">
+  <img src="demo-panel.jpg" alt="B 站播放器右下角的讲解面板" width="880">
   <br>
-  <sub>面板上第 23 段对应的那一页（视频 4355 秒）。字幕里只有老师念的话，这四条功能全在图里。</sub>
+  <sub>真实运行截图：B 站《生理学》第 27 讲。右下角那块就是讲解面板，跟着播放进度一句句点亮；底下输入框可以直接提问。</sub>
 </p>
 
 ## 它和别的东西不一样在哪
